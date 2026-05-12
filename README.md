@@ -24,4 +24,4 @@
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/alexanderbeleno16@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:alexanderbeleno16@gmail.com)
+[![Email](https://img.shields.io/badge/ing.alexbeleno@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ing.alexbeleno@gmail.com)
